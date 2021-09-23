@@ -15,3 +15,10 @@ Os header são marcados com o símbolo '#'. Os mesmo têm 6 níveis que são ind
 ##### h5
 
 ###### h6
+
+##Parágrafo com destaque
+Para escrever um parágrafo com destaque, utilizamos o símbolo >.
+
+>Esse é um parágrafo destacado do resto do texto. Esse aqui também. e assim por diante.
+
+Os paragráfos acima estão destacados do restante do texto escrito.
